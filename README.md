@@ -1,5 +1,5 @@
 # Short Link Tools Using React
 
-This project was created using React. For the UI, i use Material UI. And, i use bit.ly API for shortening the link.
+This project was created using React, Material UI, and bit.ly API for shortening the link.
 
-# [Demo](https://shottolink.netlify.app/)
+You can see the demo of this app [here](https://shottolink.netlify.app/)
